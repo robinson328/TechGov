@@ -10,6 +10,11 @@ path = 'contracts/governance-core.clar'
 clarity_version = 3
 epoch = 3.0
 
+[contracts.proposal-management]
+path = 'contracts/proposal-management.clar'
+clarity_version = 3
+epoch = 3.0
+
 [contracts.sip-010-trait]
 path = 'contracts/sip-010-trait.clar'
 clarity_version = 3
